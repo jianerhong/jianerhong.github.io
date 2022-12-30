@@ -99,7 +99,7 @@ a {text-decoration:none;}
           transform: translateY(15vh);
 }
 .background:nth-child(2) {
-  background-image: url(../img/bg2.jpg);
+  background-image: url(../img/bg2.png);
 }
 .background:nth-child(3) {
   background-image: url(../img/bg3.jpg);
